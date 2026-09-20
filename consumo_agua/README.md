@@ -43,11 +43,11 @@ O principal objetivo deste projeto é mostrar, de maneira objetiva, que o consum
 
 1. Abra o terminal.
 2. Acesse a pasta do projeto.
-3. Execute o arquivo:
-
+3. Execute o arquivo: 
 ```bash
 python app.py
 ```
 
 4. Informe o tipo de imóvel e o consumo de água.
 5. Veja a análise retornada pelo app.
+6. 
