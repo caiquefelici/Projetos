@@ -1,5 +1,5 @@
 # Primeiro, vamos solicitar ao usuário que informe o valor da compra
-valor_compra = float(input("Digite o valor da sua compra R$ "))
+valor_compra = float(input("Digite o valor da sua compra R$ ").replace(",", "."))
 
 # Possíveis Descontos: 5%, 10% e 15%
 desconto1 = 0.05
